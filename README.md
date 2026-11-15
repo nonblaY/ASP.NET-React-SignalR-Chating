@@ -24,9 +24,9 @@
 
 ## Требования
 
-- [.NET SDK 8]
-- [Node.js] 18 или новее
-- [Docker]
+- .NET SDK 8
+- Node.js 18 или новее
+- Docker
 
 ## Запуск
 
